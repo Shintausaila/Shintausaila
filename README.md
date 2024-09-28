@@ -1,4 +1,4 @@
-About Me 👋
+👋
 
 Hi! I'm Shinta Usaila Farachin,
 Underfgraduate Data Science Students 
